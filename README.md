@@ -14,4 +14,4 @@ Rope3D 내 denorm은 무엇을 의미하는가?
 
 ![Rope3D_Denorm_1][images/Rope3D_Denorm_1.jpg]
 
-![Rope3D_Denorm_2][images/Rope3D_Denorm_2.png]
+![Rope3D_Denorm_2][images/Rope3D_Denorm_2.jpg]
