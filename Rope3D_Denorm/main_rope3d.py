@@ -6,7 +6,7 @@ import pyqtgraph as pg
 from pyqtgraph.Qt import QtCore, QtGui, QtWidgets
 from pyqtgraph.opengl import GLViewWidget, GLMeshItem
 
-folder = "data1"
+folder = "data2"
 
 def load_calib():
     #read txt
